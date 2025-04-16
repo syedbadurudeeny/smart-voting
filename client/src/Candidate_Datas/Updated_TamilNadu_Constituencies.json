@@ -1,0 +1,6089 @@
+{
+    "state": "Tamil Nadu",
+    "constituencies": [
+        {
+            "name": "Chennai Central",
+            "district": "Chennai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Coimbatore South",
+            "district": "Coimbatore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Madurai East",
+            "district": "Madurai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Tiruchirappalli West",
+            "district": "Tiruchirappalli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Salem North",
+            "district": "Salem",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Erode East",
+            "district": "Erode",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Thanjavur",
+            "district": "Thanjavur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Vellore",
+            "district": "Vellore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Tirunelveli",
+            "district": "Tirunelveli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Dindigul",
+            "district": "Dindigul",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Kancheepuram",
+            "district": "Kancheepuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Virudhunagar",
+            "district": "Virudhunagar",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Cuddalore",
+            "district": "Cuddalore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Nagapattinam",
+            "district": "Nagapattinam",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Theni",
+            "district": "Theni",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Karur",
+            "district": "Karur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Pudukkottai",
+            "district": "Pudukkottai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Dharmapuri",
+            "district": "Dharmapuri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Thoothukudi",
+            "district": "Thoothukudi",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Tiruppur",
+            "district": "Tiruppur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Namakkal",
+            "district": "Namakkal",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Kanyakumari",
+            "district": "Kanyakumari",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Krishnagiri",
+            "district": "Krishnagiri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Perambalur",
+            "district": "Perambalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Ramanathapuram",
+            "district": "Ramanathapuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Sivagangai",
+            "district": "Sivagangai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Tiruvarur",
+            "district": "Tiruvarur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Ariyalur",
+            "district": "Ariyalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Nilgiris",
+            "district": "Nilgiris",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Chennai North",
+            "district": "Chennai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 31",
+            "district": "Coimbatore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 32",
+            "district": "Madurai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 33",
+            "district": "Tiruchirappalli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 34",
+            "district": "Salem",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 35",
+            "district": "Erode",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 36",
+            "district": "Thanjavur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 37",
+            "district": "Vellore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 38",
+            "district": "Tirunelveli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 39",
+            "district": "Dindigul",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 40",
+            "district": "Kancheepuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 41",
+            "district": "Virudhunagar",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 42",
+            "district": "Cuddalore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 43",
+            "district": "Nagapattinam",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 44",
+            "district": "Theni",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 45",
+            "district": "Karur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 46",
+            "district": "Pudukkottai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 47",
+            "district": "Dharmapuri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 48",
+            "district": "Thoothukudi",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 49",
+            "district": "Tiruppur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 50",
+            "district": "Namakkal",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 51",
+            "district": "Kanyakumari",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 52",
+            "district": "Krishnagiri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 53",
+            "district": "Perambalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 54",
+            "district": "Ramanathapuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 55",
+            "district": "Sivagangai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 56",
+            "district": "Tiruvarur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 57",
+            "district": "Ariyalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 58",
+            "district": "Nilgiris",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 59",
+            "district": "Chennai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 60",
+            "district": "Coimbatore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 61",
+            "district": "Madurai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 62",
+            "district": "Tiruchirappalli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 63",
+            "district": "Salem",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 64",
+            "district": "Erode",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 65",
+            "district": "Thanjavur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 66",
+            "district": "Vellore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 67",
+            "district": "Tirunelveli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 68",
+            "district": "Dindigul",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 69",
+            "district": "Kancheepuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 70",
+            "district": "Virudhunagar",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 71",
+            "district": "Cuddalore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 72",
+            "district": "Nagapattinam",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 73",
+            "district": "Theni",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 74",
+            "district": "Karur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 75",
+            "district": "Pudukkottai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 76",
+            "district": "Dharmapuri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 77",
+            "district": "Thoothukudi",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 78",
+            "district": "Tiruppur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 79",
+            "district": "Namakkal",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 80",
+            "district": "Kanyakumari",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 81",
+            "district": "Krishnagiri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 82",
+            "district": "Perambalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 83",
+            "district": "Ramanathapuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 84",
+            "district": "Sivagangai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 85",
+            "district": "Tiruvarur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 86",
+            "district": "Ariyalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 87",
+            "district": "Nilgiris",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 88",
+            "district": "Chennai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 89",
+            "district": "Coimbatore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 90",
+            "district": "Madurai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 91",
+            "district": "Tiruchirappalli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 92",
+            "district": "Salem",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 93",
+            "district": "Erode",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 94",
+            "district": "Thanjavur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 95",
+            "district": "Vellore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 96",
+            "district": "Tirunelveli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 97",
+            "district": "Dindigul",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 98",
+            "district": "Kancheepuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 99",
+            "district": "Virudhunagar",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 100",
+            "district": "Cuddalore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 101",
+            "district": "Nagapattinam",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 102",
+            "district": "Theni",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 103",
+            "district": "Karur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 104",
+            "district": "Pudukkottai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 105",
+            "district": "Dharmapuri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 106",
+            "district": "Thoothukudi",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 107",
+            "district": "Tiruppur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 108",
+            "district": "Namakkal",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 109",
+            "district": "Kanyakumari",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 110",
+            "district": "Krishnagiri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 111",
+            "district": "Perambalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 112",
+            "district": "Ramanathapuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 113",
+            "district": "Sivagangai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 114",
+            "district": "Tiruvarur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 115",
+            "district": "Ariyalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 116",
+            "district": "Nilgiris",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 117",
+            "district": "Chennai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 118",
+            "district": "Coimbatore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 119",
+            "district": "Madurai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 120",
+            "district": "Tiruchirappalli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 121",
+            "district": "Salem",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 122",
+            "district": "Erode",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 123",
+            "district": "Thanjavur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 124",
+            "district": "Vellore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 125",
+            "district": "Tirunelveli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 126",
+            "district": "Dindigul",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 127",
+            "district": "Kancheepuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 128",
+            "district": "Virudhunagar",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 129",
+            "district": "Cuddalore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 130",
+            "district": "Nagapattinam",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 131",
+            "district": "Theni",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 132",
+            "district": "Karur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 133",
+            "district": "Pudukkottai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 134",
+            "district": "Dharmapuri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 135",
+            "district": "Thoothukudi",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 136",
+            "district": "Tiruppur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 137",
+            "district": "Namakkal",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 138",
+            "district": "Kanyakumari",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 139",
+            "district": "Krishnagiri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 140",
+            "district": "Perambalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 141",
+            "district": "Ramanathapuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 142",
+            "district": "Sivagangai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 143",
+            "district": "Tiruvarur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 144",
+            "district": "Ariyalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 145",
+            "district": "Nilgiris",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 146",
+            "district": "Chennai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 147",
+            "district": "Coimbatore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 148",
+            "district": "Madurai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 149",
+            "district": "Tiruchirappalli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 150",
+            "district": "Salem",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 151",
+            "district": "Erode",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 152",
+            "district": "Thanjavur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 153",
+            "district": "Vellore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 154",
+            "district": "Tirunelveli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 155",
+            "district": "Dindigul",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 156",
+            "district": "Kancheepuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 157",
+            "district": "Virudhunagar",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 158",
+            "district": "Cuddalore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 159",
+            "district": "Nagapattinam",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 160",
+            "district": "Theni",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 161",
+            "district": "Karur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 162",
+            "district": "Pudukkottai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 163",
+            "district": "Dharmapuri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 164",
+            "district": "Thoothukudi",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 165",
+            "district": "Tiruppur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 166",
+            "district": "Namakkal",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 167",
+            "district": "Kanyakumari",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 168",
+            "district": "Krishnagiri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 169",
+            "district": "Perambalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 170",
+            "district": "Ramanathapuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 171",
+            "district": "Sivagangai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 172",
+            "district": "Tiruvarur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 173",
+            "district": "Ariyalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 174",
+            "district": "Nilgiris",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 175",
+            "district": "Chennai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 176",
+            "district": "Coimbatore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 177",
+            "district": "Madurai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 178",
+            "district": "Tiruchirappalli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 179",
+            "district": "Salem",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 180",
+            "district": "Erode",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 181",
+            "district": "Thanjavur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 182",
+            "district": "Vellore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 183",
+            "district": "Tirunelveli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 184",
+            "district": "Dindigul",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 185",
+            "district": "Kancheepuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 186",
+            "district": "Virudhunagar",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 187",
+            "district": "Cuddalore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 188",
+            "district": "Nagapattinam",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 189",
+            "district": "Theni",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 190",
+            "district": "Karur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 191",
+            "district": "Pudukkottai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 192",
+            "district": "Dharmapuri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 193",
+            "district": "Thoothukudi",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 194",
+            "district": "Tiruppur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 195",
+            "district": "Namakkal",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 196",
+            "district": "Kanyakumari",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 197",
+            "district": "Krishnagiri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 198",
+            "district": "Perambalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 199",
+            "district": "Ramanathapuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 200",
+            "district": "Sivagangai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 201",
+            "district": "Tiruvarur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 202",
+            "district": "Ariyalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 203",
+            "district": "Nilgiris",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 204",
+            "district": "Chennai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 205",
+            "district": "Coimbatore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 206",
+            "district": "Madurai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 207",
+            "district": "Tiruchirappalli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 208",
+            "district": "Salem",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 209",
+            "district": "Erode",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 210",
+            "district": "Thanjavur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 211",
+            "district": "Vellore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 212",
+            "district": "Tirunelveli",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 213",
+            "district": "Dindigul",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 214",
+            "district": "Kancheepuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 215",
+            "district": "Virudhunagar",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 216",
+            "district": "Cuddalore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 217",
+            "district": "Nagapattinam",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 218",
+            "district": "Theni",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 219",
+            "district": "Karur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 220",
+            "district": "Pudukkottai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 221",
+            "district": "Dharmapuri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 222",
+            "district": "Thoothukudi",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 223",
+            "district": "Tiruppur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 224",
+            "district": "Namakkal",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 225",
+            "district": "Kanyakumari",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 226",
+            "district": "Krishnagiri",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 227",
+            "district": "Perambalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 228",
+            "district": "Ramanathapuram",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 229",
+            "district": "Sivagangai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 230",
+            "district": "Tiruvarur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 231",
+            "district": "Ariyalur",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 232",
+            "district": "Nilgiris",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 233",
+            "district": "Chennai",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        },
+        {
+            "name": "Constituency 234",
+            "district": "Coimbatore",
+            "candidates": [
+                {
+                    "name": "Arun Kumar",
+                    "party": "DMK"
+                },
+                {
+                    "name": "Bhaskar Raja",
+                    "party": "AIADMK"
+                },
+                {
+                    "name": "Chitra Lakshmi",
+                    "party": "BJP"
+                },
+                {
+                    "name": "Devan Devi",
+                    "party": "NTK"
+                },
+                {
+                    "name": "Ezhil Mohan",
+                    "party": "TVK"
+                }
+            ]
+        }
+    ]
+}
